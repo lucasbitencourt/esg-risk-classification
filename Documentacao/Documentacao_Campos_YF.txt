@@ -1,0 +1,523 @@
+# 📄 Documentação dos Campos do Arquivo de Dados Yahoo Finance
+
+#### address1
+Endereço físico da empresa.
+
+#### city
+Cidade da sede da empresa.
+
+#### state
+Estado ou província da sede.
+
+#### zip
+Código postal da sede da empresa.
+
+#### country
+País da sede.
+
+#### phone
+Telefone da empresa.
+
+#### website
+Website oficial da empresa.
+
+#### industry
+Indústria de atuação da empresa.
+
+#### industryKey
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### industryDisp
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### sector
+Setor de atuação da empresa.
+
+#### sectorKey
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### sectorDisp
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### longBusinessSummary
+Descrição da atividade da empresa.
+
+#### fullTimeEmployees
+Número de funcionários em tempo integral.
+
+#### companyOfficers
+Lista de executivos da empresa.
+
+#### auditRisk
+Risco relacionado a práticas de auditoria.
+
+#### boardRisk
+Risco relacionado à governança do conselho.
+
+#### compensationRisk
+Risco relacionado à compensação de executivos.
+
+#### shareHolderRightsRisk
+Risco relacionado aos direitos dos acionistas.
+
+#### overallRisk
+Risco geral de governança.
+
+#### governanceEpochDate
+Data da última avaliação de governança.
+
+#### compensationAsOfEpochDate
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### irWebsite
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### executiveTeam
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### maxAge
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### priceHint
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### previousClose
+Preço de fechamento do pregão anterior.
+
+#### open
+Preço de abertura do último pregão.
+
+#### dayLow
+Menor preço no último pregão.
+
+#### dayHigh
+Maior preço no último pregão.
+
+#### regularMarketPreviousClose
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### regularMarketOpen
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### regularMarketDayLow
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### regularMarketDayHigh
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### dividendRate
+Valor do dividendo por ação.
+
+#### dividendYield
+Rendimento percentual do dividendo.
+
+## exDividendDate
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### payoutRatio
+Percentual de distribuição de lucros.
+
+#### fiveYearAvgDividendYield
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### beta
+Indicador de volatilidade em relação ao mercado.
+
+#### trailingPE
+Preço/Lucro histórico.
+
+#### forwardPE
+Preço/Lucro projetado.
+
+#### volume
+Volume negociado no último pregão.
+
+#### regularMarketVolume
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### averageVolume
+Volume médio diário negociado.
+
+#### averageVolume10days
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### averageDailyVolume10Day
+Volume médio diário dos últimos 10 dias.
+
+#### bid
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### ask
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### bidSize
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### askSize
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### marketCap
+Valor de mercado da empresa.
+
+#### forwardMarketCap
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### fiftyTwoWeekLow
+Menor preço nos últimos 52 semanas.
+
+#### fiftyTwoWeekHigh
+Maior preço nos últimos 52 semanas.
+
+#### priceToSalesTrailing12Months
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### fiftyDayAverage
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### twoHundredDayAverage
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### trailingAnnualDividendRate
+Dividendo anual baseado no histórico.
+
+#### trailingAnnualDividendYield
+Rendimento de dividendos baseado no histórico.
+
+#### currency
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### enterpriseValue
+Valor da empresa incluindo dívidas e caixa.
+
+#### profitMargins
+Margem de lucro.
+
+#### floatShares
+Ações disponíveis para negociação.
+
+#### sharesOutstanding
+Número de ações em circulação.
+
+#### sharesShort
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### sharesShortPriorMonth
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### sharesShortPreviousMonthDate
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### dateShortInterest
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### sharesPercentSharesOut
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### heldPercentInsiders
+Percentual de ações detidas por insiders.
+
+#### heldPercentInstitutions
+Percentual de ações detidas por instituições.
+
+#### shortRatio
+Relação entre ações vendidas a descoberto e volume médio diário.
+
+#### shortPercentOfFloat
+Percentual de ações em circulação vendidas a descoberto.
+
+#### impliedSharesOutstanding
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### bookValue
+Valor patrimonial por ação.
+
+#### priceToBook
+Relação Preço/Valor Patrimonial.
+
+#### lastFiscalYearEnd
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### nextFiscalYearEnd
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### mostRecentQuarter
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### earningsQuarterlyGrowth
+Crescimento trimestral dos lucros.
+
+#### revenueQuarterlyGrowth
+Crescimento trimestral das receitas.
+
+#### netIncomeToCommon
+Lucro líquido disponível aos acionistas.
+
+#### trailingEps
+Lucro por ação histórico.
+
+#### forwardEps
+Lucro por ação projetado.
+
+#### pegRatio
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### lastSplitFactor
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### lastSplitDate
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### enterpriseToRevenue
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### enterpriseToEbitda
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### 52WeekChange
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### SandP52WeekChange
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### lastDividendValue
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### lastDividendDate
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### exchange
+Bolsa de valores em que a ação é negociada.
+
+#### quoteType
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### symbol
+Símbolo de negociação (ticker).
+
+#### underlyingsymbol
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### shortName
+Nome curto da empresa.
+
+#### longName
+Nome completo da empresa.
+
+#### firstTradeDateEpochUtc
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### timeZoneFullName
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### timeZoneShortName
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### uuid
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### messageBoardId
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### gmtOffSetMilliseconds
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### currentPrice
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### targetHighPrice
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### targetLowPrice
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### targetMeanPrice
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### targetMedianPrice
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### recommendationMean
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### recommendationKey
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### numberOfAnalystOpinions
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### totalCash
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### totalCashPerShare
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### ebitda
+Lucro antes de juros, impostos, depreciação e amortização.
+
+#### totalDebt
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### quickRatio
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### currentRatio
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### totalRevenue
+Receita total da empresa.
+
+#### debtToEquity
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### revenuePerShare
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### returnOnAssets
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### returnOnEquity
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### grossProfits
+Lucro bruto da empresa.
+
+#### freeCashflow
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### operatingCashflow
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### earningsGrowth
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### revenueGrowth
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### grossMargins
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### ebitdaMargins
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### operatingMargins
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### financialCurrency
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### trailingPegRatio
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### logo_url
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### governanceEpochDate
+Data da última avaliação de governança.
+
+#### compensationAsOfEpochDate
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### boardRisk
+Risco relacionado à governança do conselho.
+
+#### auditRisk
+Risco relacionado a práticas de auditoria.
+
+#### compensationRisk
+Risco relacionado à compensação de executivos.
+
+#### shareHolderRightsRisk
+Risco relacionado aos direitos dos acionistas.
+
+#### overallRisk
+Risco geral de governança.
+
+#### maxAge
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### priceHint
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### forwardMarketCap
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### impliedSharesOutstanding
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### averageVolume10days
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### regularMarketPreviousClose
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### regularMarketOpen
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### regularMarketDayLow
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### regularMarketDayHigh
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### regularMarketVolume
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### sharesShortPreviousMonthDate
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### dateShortInterest
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### sharesPercentSharesOut
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### heldPercentInsiders
+Percentual de ações detidas por insiders.
+
+#### heldPercentInstitutions
+Percentual de ações detidas por instituições.
+
+#### shortPercentOfFloat
+Percentual de ações em circulação vendidas a descoberto.
+
+#### sharesShort
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### sharesShortPriorMonth
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### SandP52WeekChange
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### 52WeekChange
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### lastDividendDate
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### lastDividendValue
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### lastSplitDate
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### lastSplitFactor
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### averageDailyVolume10Day
+Volume médio diário dos últimos 10 dias.
+
+#### messageBoardId
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### uuid
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### gmtOffSetMilliseconds
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### timeZoneFullName
+Descrição não encontrada ou campo específico do Yahoo Finance.
+
+#### timeZoneShortName
+Descrição não encontrada ou campo específico do Yahoo Finance.
